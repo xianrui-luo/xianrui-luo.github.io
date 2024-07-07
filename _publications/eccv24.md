@@ -3,7 +3,7 @@ title: "Dynamic Neural Radiance Field From Defocused Monocular Video"
 collection: publications
 permalink: /publication/eccv24
 excerpt: '.'
-date: 2024-07
+date: 2024-07-01
 venue: 'ECCV'
 codeurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
