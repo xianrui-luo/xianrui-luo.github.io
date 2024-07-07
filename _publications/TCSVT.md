@@ -2,7 +2,7 @@
 title: "Point-and-Shoot All-in-Focus Photo Synthesis From Smartphone Camera Pair"
 collection: publications
 permalink: /publication/TCSVT
-excerpt: '![](xianrui-luo.github.io/images/tcsvt.jpg)'
+excerpt: '![](https://xianrui-luo.github.io/images/tcsvt.jpg)'
 date: 2022-11-01
 venue: 'TCSVT'
 codeurl: 'http://academicpages.github.io/files/slides3.pdf'
