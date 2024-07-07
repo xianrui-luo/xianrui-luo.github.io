@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Neural Radiance Field From Defocused Monocular Video"
 collection: publications
+author: "**Xianrui Luo**, Huiqiang Sun, Juewen Peng, Zhiguo Cao"
 permalink: /publication/eccv24
 excerpt: '![](https://xianrui-luo.github.io/images/eccv2024.gif)'
 date: 2024-07-01
