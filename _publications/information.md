@@ -1,6 +1,6 @@
 ---
 title: "Defocus to Focus: Photo-realistic Bokeh Rendering by Fusing Defocus and Radiance Priors"
-author: "Xianrui Luo, Juewen Peng, Ke Xian, Zijin Wu, Zhiguo Cao"
+author: "**Xianrui Luo**, Juewen Peng, Ke Xian, Zijin Wu, Zhiguo Cao"
 collection: publications
 permalink: /publication/information
 excerpt: '![](https://xianrui-luo.github.io/images/information.gif)'
