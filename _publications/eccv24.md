@@ -6,7 +6,7 @@ permalink: /publication/eccv24
 excerpt: '![](https://xianrui-luo.github.io/images/eccv2024.gif)'
 date: 2024-07-01
 venue: 'ECCV'
-codeurl: 'http://academicpages.github.io/files/slides1.pdf'
+codeurl: 'https://github.com/xianrui-luo/D2RF'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
