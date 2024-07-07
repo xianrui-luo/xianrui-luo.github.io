@@ -1,6 +1,7 @@
 ---
 title: "BokehMe: When Neural Rendering Meets Classical Rendering"
 collection: publications
+author: "Juewen Peng, Zhiguo Cao, Xianrui Luo, Hao Lu, Ke Xian, Jianming Zhang"
 permalink: /publication/cvpr2022
 excerpt: '![](https://xianrui-luo.github.io/images/cvpr2022.jpg)'
 date: 2022-03-03
