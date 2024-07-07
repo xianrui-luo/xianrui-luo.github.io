@@ -54,6 +54,8 @@
     
     {% if post.citation and post.paperurl and post.codeurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.codeurl }}">Download Code</a></p>
+    {% elsif post.paperurl and post.codeurl %}
+      <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.codeurl }}">Download Code</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.citation and post.codeurl %}
