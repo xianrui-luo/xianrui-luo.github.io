@@ -1,6 +1,7 @@
 ---
 title: "Point-and-Shoot All-in-Focus Photo Synthesis From Smartphone Camera Pair"
 collection: publications
+author: "Xianrui Luo, Juewen Peng, Weiyue Zhao, Ke Xian, Hao Lu, Zhiguo Cao"
 permalink: /publication/TCSVT
 excerpt: '![](https://xianrui-luo.github.io/images/tcsvt.jpg)'
 date: 2022-11-01
