@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Xianrui Luo"
-  # pronouns         : # example: "she/her"  
+  pronouns         : 
   bio              : "PhD student at Huazhong University of Science and Technology"
-  # location         : "Earth"
-  # employer         : "Huazhong University of Science and Technology"
-  uri              : # URL
+  location         :
+  employer         : 
+  uri              : 
   email            : "ericlxrrrr@gmail.com" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8572-8938"
   semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
