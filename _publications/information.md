@@ -2,7 +2,7 @@
 title: "Defocus to Focus: Photo-realistic Bokeh Rendering by Fusing Defocus and Radiance Priors"
 collection: publications
 permalink: /publication/information
-excerpt: https://xianrui-luo.github.io/images/information.gif
+excerpt: ![](https://xianrui-luo.github.io/images/information.gif)
 date: 2022-08-01
 venue: 'Information Fusion'
 codeurl: 'https://github.com/xianrui-luo/defocustofocus'
