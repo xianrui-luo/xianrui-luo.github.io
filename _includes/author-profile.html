@@ -36,6 +36,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.alternateemail %}
+        <li><a href="mailto:{{ author.alternateemail }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "AlternateEmail" }}</a></li>
+      {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
@@ -58,6 +61,9 @@
       {% endif %}                        
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
+      {% endif %}
+      {% if author.CV %}
+        <li><a href="https://bitbucket.org/{{ author.CV }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>CV</a></li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
