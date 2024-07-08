@@ -6,7 +6,6 @@ permalink: /publication/TCSVT
 excerpt: '![](https://xianrui-luo.github.io/images/tcsvt.jpg)'
 date: 2022-11-01
 venue: 'TCSVT'
-codeurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9953190'
 ---
 
