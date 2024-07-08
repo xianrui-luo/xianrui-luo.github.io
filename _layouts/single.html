@@ -63,6 +63,8 @@ layout: default
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
         {% elsif page.codeurl %}
           <p style="font-size: smaller"><a href="{{ page.codeurl }}">Code</a></p>
+        {% elsif page.paperurl %}
+          <p style="font-size: smaller"><a href="{{ page.paperurl }}">Code</a></p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
