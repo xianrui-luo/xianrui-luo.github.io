@@ -7,7 +7,7 @@ excerpt: '![](https://xianrui-luo.github.io/images/eccv2024.gif)'
 date: 2024-07-01
 venue: 'ECCV'
 codeurl: 'https://github.com/xianrui-luo/D2RF'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/abs/2407.05586'
 ---
 
 Dynamic Neural Radiance Field (NeRF) from monocular videos has recently been explored for space-time novel view synthesis and achieved excellent results. However, defocus blur caused by depth variation often occurs in video capture, compromising the quality of dynamic reconstruction because the lack of sharp details interferes with modeling temporal consistency between input views. To tackle this issue, we propose D2RF, the first dynamic NeRF method designed to restore
