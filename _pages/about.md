@@ -11,6 +11,7 @@ I received my bachelor's degree from the Huazhong University of Science and Tech
 
 News
 =======
+- [2024-11] One paper accepted by TPAMI 2024.
 - [2024-07] One paper accepted by ECCV 2024.
 - [2023-07] One paper accepted by ICCV2023.
 - [2023-06] Won Winner Award in "NTIRE 2023 Bokeh Effect Transformation Challenge".
