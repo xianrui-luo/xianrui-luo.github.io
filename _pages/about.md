@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I received my bachelor's degree from the Huazhong University of Science and Technology (Hust), Wuhan, China. I am pursuing a PhD in Artificial Intelligence at Hust, with the Key Laboratory of Image Processing and Intelligent Control. I am advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1). I am currently a project officer in S-lab, Nanyang Technological University, Singapore supervised by Prof. [Guosheng Lin](https://guosheng.github.io/). My research interests include image restoration, 3D vision, and computation photography. I am expected to graduate in June 2025 and actively seek opportunities for a **postdoctoral position** starting in 2025.
+I received my bachelor's degree from the Huazhong University of Science and Technology (Hust), Wuhan, China. I am pursuing a PhD in Artificial Intelligence at Hust, with the Key Laboratory of Image Processing and Intelligent Control. I am advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1). I worked as a project officer in S-lab, Nanyang Technological University, Singapore supervised by Prof. [Guosheng Lin](https://guosheng.github.io/) from November 2023 to November 2024. My research interests include image restoration, 3D vision, and computation photography. I am expected to graduate in June 2025 and actively seek opportunities for a **postdoctoral position** starting in 2025.
 
 News
 =======
+- [2025-02] One paper accepted by TPAMI 2025.
 - [2024-11] One paper accepted by TPAMI 2024.
 - [2024-07] One paper accepted by ECCV 2024.
 - [2023-07] One paper accepted by ICCV2023.
