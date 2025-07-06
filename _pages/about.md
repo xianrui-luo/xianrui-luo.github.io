@@ -27,6 +27,7 @@ News
 Academic Service
 =======
 **Conference Reviewer** of CVPR, ICCV, ECCV, ACMMM
+
 **Journal Reviewer** of IEEE TCSVT, Automation in Construction
 
 
