@@ -4,7 +4,7 @@ collection: publications
 author: "Xianrui Luo, Huiqiang Sun, Juewen Peng, Zhiguo Cao"
 permalink: /publication/eccv24
 # excerpt: '![](https://xianrui-luo.github.io/images/eccv2024.gif)'
-excerpt: '<img src="https://xianrui-luo.github.io/images/eccv2024.gif" width="80%" />'
+excerpt: '<img src="https://xianrui-luo.github.io/images/eccv2024.gif" width="60%" />'
 date: 2024-07-01
 venue: 'ECCV'
 codeurl: 'https://github.com/xianrui-luo/D2RF'
