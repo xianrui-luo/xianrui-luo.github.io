@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I received my bachelor's degree from the Huazhong University of Science and Technology (Hust), Wuhan, China. I am pursuing a PhD in Artificial Intelligence at Hust, with the Key Laboratory of Image Processing and Intelligent Control. I am advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1). I worked as a project officer in S-lab, Nanyang Technological University, Singapore supervised by Prof. [Guosheng Lin](https://guosheng.github.io/) from November 2023 to November 2024. My research interests include 3D vision, multi-modal and construction automation. I will be joining the Institute of Future Cities and Infrastructures at Tsinghua University as a Shuimu Scholar (Postdoc), working with Prof. [Dongping Fang](https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm).
+I received my bachelor's degree (in Automation) and PhD (in Artificial Intelligence) from the Huazhong University of Science and Technology (Hust), Wuhan, China. 
+<!-- I am pursuing a PhD in Artificial Intelligence at Hust, with the Key Laboratory of Image Processing and Intelligent Control. I am advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1). -->
+For my PhD, I was with the Key Laboratory of Image Processing and Intelligent Control, advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1).
+I worked as a project officer in S-lab, Nanyang Technological University, Singapore supervised by Prof. [Guosheng Lin](https://guosheng.github.io/) from November 2023 to November 2024. My research interests include 3D vision, multi-modal and construction automation. I will be joining the Institute of Future Cities and Infrastructures at Tsinghua University as a Shuimu Scholar (Postdoc), working with Prof. [Dongping Fang](https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm).
 
 News
 =======
