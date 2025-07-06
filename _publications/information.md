@@ -4,7 +4,7 @@ author: "Xianrui Luo*, Juewen Peng*, Ke Xian, Zijin Wu, Zhiguo Cao"
 collection: publications
 permalink: /publication/information
 # excerpt: '![](https://xianrui-luo.github.io/images/information.gif)'
-excerpt: '<img src="https://xianrui-luo.github.io/images/information.gif" width="60%" />'
+excerpt: '<video autoplay loop muted playsinline width="60%"><source src="https://xianrui-luo.github.io/images/information.mp4" type="video/mp4"></video>'
 date: 2022-08-01
 venue: 'Information Fusion'
 codeurl: 'https://github.com/xianrui-luo/defocustofocus'

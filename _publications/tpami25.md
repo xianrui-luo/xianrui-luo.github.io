@@ -4,7 +4,8 @@ collection: publications
 author: "Xianrui Luo, Zijin Wu, Juewen Peng, Huiqiang Sun, Zhiguo Cao, Guosheng Lin"
 permalink: /publication/tpami25
 # excerpt: '![](https://xianrui-luo.github.io/images/eccv2024.gif)'
-excerpt: '<img src="https://xianrui-luo.github.io/images/pami.gif" width="60%" />'
+# excerpt: '<img src="https://xianrui-luo.github.io/images/pami.gif" width="60%" />'
+excerpt: '<video autoplay loop muted playsinline width="60%"><source src="https://xianrui-luo.github.io/images/pami.mp4" type="video/mp4"></video>'
 date: 2025-04-01
 venue: 'IEEE TPAMI'
 codeurl: 'https://github.com/xianrui-luo/DCNeRF'
