@@ -14,13 +14,14 @@ I worked as a project officer in S-lab, Nanyang Technological University, Singap
 
 News
 =======
-- [2025-02] One paper accepted by TPAMI 2025.
-- [2024-11] One paper accepted by TPAMI 2024.
+- [2025-11] Two papers accepted by AAAI 2026.
+- [2025-02] One paper accepted by IEEE TPAMI 2025.
+- [2024-11] One paper accepted by IEEE TPAMI 2024.
 - [2024-07] One paper accepted by ECCV 2024.
 - [2023-07] One paper accepted by ICCV2023.
 - [2023-06] Won Winner Award in "NTIRE 2023 Bokeh Effect Transformation Challenge".
 - [2023-04] One paper accepted by CVPR 2023 Workshops.
-- [2022-11] One paper accepted by TCSVT 2023.
+- [2022-11] One paper accepted by IEEE TCSVT 2023.
 - [2022-08] One paper accepted by Information Fusion 2023.
 - [2022-07] One paper accepted by ECCV 2022.
 - [2022-03] One paper accepted by CVPR 2022 as an oral presentation.
