@@ -47,22 +47,8 @@
   }
 
   .experience-item__details {
-    display: grid;
-    gap: 0.35rem;
-
-    @include breakpoint($large) {
-      grid-template-columns: minmax(0, 1fr) auto;
-      gap: 1rem;
-      align-items: baseline;
-    }
-
     p {
       margin-bottom: 0;
-    }
-
-    p:last-child {
-      font-family: $sans-serif;
-      white-space: nowrap;
     }
   }
 

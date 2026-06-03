@@ -23,8 +23,7 @@ I worked as a project officer in S-lab, Nanyang Technological University, Singap
         <h3>Postdoctoral Researcher | Institute of Future Cities and Infrastructures, Tsinghua University</h3>
       </div>
       <div class="experience-item__details">
-        <p>Advisor: <a href="https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm">Prof. Dongping Fang</a>.</p>
-        <p>Aug 2025 - Now</p>
+        <p>Aug 2025 - Now | Advisor: <a href="https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm">Prof. Dongping Fang</a>.</p>
       </div>
     </div>
   </li>
@@ -35,8 +34,7 @@ I worked as a project officer in S-lab, Nanyang Technological University, Singap
         <h3>Project Officer | S-Lab for Advanced Intelligence, Nanyang Technological University</h3>
       </div>
       <div class="experience-item__details">
-        <p>Advisor: <a href="https://guosheng.github.io/">Prof. Guosheng Lin</a>.</p>
-        <p>Nov 2023 - Nov 2024</p>
+        <p>Nov 2023 - Nov 2024 | Advisor: <a href="https://guosheng.github.io/">Prof. Guosheng Lin</a>.</p>
       </div>
     </div>
   </li>
