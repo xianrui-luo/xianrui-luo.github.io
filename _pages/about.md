@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-page-content">
+<div class="home-page-content" markdown="1">
 
 I received my bachelor's degree (in Automation) and PhD (in Artificial Intelligence) from the Huazhong University of Science and Technology (HUST), Wuhan, China.
 For my PhD, I was with the Key Laboratory of Image Processing and Intelligent Control, advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1).
