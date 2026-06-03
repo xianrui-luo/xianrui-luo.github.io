@@ -26,15 +26,7 @@
   }
 
   .experience-item__topline {
-    display: grid;
-    gap: 0.35rem;
     margin-bottom: 0.35rem;
-
-    @include breakpoint($large) {
-      grid-template-columns: minmax(0, 1fr) auto;
-      gap: 1rem;
-      align-items: baseline;
-    }
 
     h3,
     p {
@@ -54,8 +46,27 @@
     }
   }
 
-  .experience-item__body > p {
-    margin-bottom: 0;
+  .experience-item__details {
+    display: grid;
+    gap: 0.35rem;
+
+    @include breakpoint($large) {
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 1rem;
+      align-items: baseline;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+
+    p:last-child {
+      font-family: $sans-serif;
+      white-space: nowrap;
+    }
+  }
+
+  .experience-item__body p {
     font-size: 1rem;
     line-height: 1.7;
   }
