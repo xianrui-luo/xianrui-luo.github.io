@@ -9,37 +9,34 @@ redirect_from:
 
 <div class="home-page-content" markdown="1">
 
-I received my bachelor's degree (in Automation) and PhD (in Artificial Intelligence) from the Huazhong University of Science and Technology (HUST), Wuhan, China.
+I received my bachelor's degree (in Automation) and PhD (in Artificial Intelligence) from the Huazhong University of Science and Technology (Hust), Wuhan, China.
+<!-- I am pursuing a PhD in Artificial Intelligence at Hust, with the Key Laboratory of Image Processing and Intelligent Control. I am advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1). -->
 For my PhD, I was with the Key Laboratory of Image Processing and Intelligent Control, advised by Prof. [Zhiguo Cao](https://openreview.net/profile?id=~Zhiguo_Cao1).
-I worked as a project officer in S-Lab, Nanyang Technological University, Singapore, supervised by Prof. [Guosheng Lin](https://guosheng.github.io/) from November 2023 to November 2024.
-My research interests include 3D vision, multi-modal learning, and construction automation.
-I am joining the Institute of Future Cities and Infrastructures at Tsinghua University as a Shuimu Scholar (Postdoctoral Fellow), working with Prof. [Dongping Fang](https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm).
+I worked as a project officer in S-lab, Nanyang Technological University, Singapore supervised by Prof. [Guosheng Lin](https://guosheng.github.io/) from November 2023 to November 2024. My research interests include 3D vision, multi-modal and construction automation. I will be joining the Institute of Future Cities and Infrastructures at Tsinghua University as a Shuimu Scholar (Postdoc), working with Prof. [Dongping Fang](https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm).
 
 ## Employment
 
-<div class="experience-list experience-list--compact">
-  <article class="experience-item">
-    <div class="experience-item__marker" aria-hidden="true"></div>
+<ul class="experience-list experience-list--compact">
+  <li class="experience-item">
     <div class="experience-item__body">
       <div class="experience-item__topline">
         <h3>Postdoctoral Researcher | Institute of Future Cities and Infrastructures, Tsinghua University</h3>
         <p>Aug 2025 - Now</p>
       </div>
-      <p>Advisor: <a href="https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm">Prof. Dongping Fang</a>. I lead a project on multi-modal LLMs in construction safety.</p>
+      <p>Advisor: <a href="https://www.civil.tsinghua.edu.cn/cmen/info/1092/1394.htm">Prof. Dongping Fang</a>.</p>
     </div>
-  </article>
+  </li>
 
-  <article class="experience-item">
-    <div class="experience-item__marker" aria-hidden="true"></div>
+  <li class="experience-item">
     <div class="experience-item__body">
       <div class="experience-item__topline">
         <h3>Project Officer | S-Lab for Advanced Intelligence, Nanyang Technological University</h3>
         <p>Nov 2023 - Nov 2024</p>
       </div>
-      <p>Advisor: <a href="https://guosheng.github.io/">Prof. Guosheng Lin</a>. I lead a project on high-fidelity human avatar modeling.</p>
+      <p>Advisor: <a href="https://guosheng.github.io/">Prof. Guosheng Lin</a>.</p>
     </div>
-  </article>
-</div>
+  </li>
+</ul>
 
 ## News
 

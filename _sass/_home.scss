@@ -15,37 +15,14 @@
 
 .home-page-content {
   .experience-list {
-    position: relative;
     display: grid;
     gap: 2rem;
     margin: 0.5rem 0 2rem;
-    padding-left: 2.25rem;
-
-    &:before {
-      content: "";
-      position: absolute;
-      top: 0.5rem;
-      bottom: 0.5rem;
-      left: 0.6rem;
-      width: 2px;
-      background: linear-gradient(180deg, #2d5e9e 0%, rgba(45, 94, 158, 0.18) 100%);
-    }
+    padding-left: 1.3em;
   }
 
   .experience-item {
-    position: relative;
-  }
-
-  .experience-item__marker {
-    position: absolute;
-    top: 0.35rem;
-    left: -2.25rem;
-    width: 1.2rem;
-    height: 1.2rem;
-    border: 3px solid #fff;
-    border-radius: 50%;
-    background: #2d5e9e;
-    box-shadow: 0 0 0 3px rgba(45, 94, 158, 0.18);
+    padding-left: 0.2rem;
   }
 
   .experience-item__topline {
@@ -65,8 +42,9 @@
     }
 
     h3 {
-      font-size: 1.1rem;
-      line-height: 1.45;
+      font-size: 1rem;
+      line-height: 1.5;
+      font-weight: 700;
     }
 
     p {
