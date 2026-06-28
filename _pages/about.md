@@ -42,6 +42,7 @@ I worked as a project officer in S-lab, Nanyang Technological University, Singap
 
 ## News
 
+- [2026-06] One paper published in Advanced Engineering Informatics.
 - [2025-11] Two papers accepted by AAAI 2026.
 - [2025-02] One paper accepted by IEEE TPAMI 2025.
 - [2024-11] One paper accepted by IEEE TPAMI 2024.
