@@ -2,17 +2,6 @@
    HOME PAGE TWEAKS
    ========================================================================== */
 
-.sidebar--home {
-  @media screen and (min-width: $sidebar-screen-min-width) {
-    position: relative;
-    top: auto;
-    height: auto;
-    max-height: none;
-    overflow-y: visible;
-    padding-top: 0;
-  }
-}
-
 .home-page-content {
   .experience-list {
     display: grid;
